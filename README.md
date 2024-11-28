@@ -1,4 +1,4 @@
-<p align="center"> <img src="[https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263](https://stock.adobe.com/images/businessman-holding-software-development-icon-global-structure-networking-and-data-integration-connection-cloud-computing-solutions-agile-development-service-tech-innovation-and-digital-network/790563302)" width="1000" height="200" /> </p>
+<p align="center"> <img src="https://stock.adobe.com/images/businessman-holding-software-development-icon-global-structure-networking-and-data-integration-connection-cloud-computing-solutions-agile-development-service-tech-innovation-and-digital-network/790563302" width="1000" height="200" /> </p>
 <h1 align="center">Hi 👋, I'm Prathamesh Farade</h1>
 <h3 align="center">A passionate DevOps Engineer from Pune.</h3>
 
